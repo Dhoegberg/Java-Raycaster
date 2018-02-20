@@ -1,0 +1,13 @@
+//GraphicTiles
+RebMan.png			EMIL
+RayStone.png		ROCK
+RaySand.png			SAND
+RaySand64.png		SAND64
+RebAppleTree.png	TESTTREE
+Apple.png			APPLE
+Brickwall.png		BRICKWALL
+GrayBrickWall64.png	BRICKWALL64
+Welcome64.png		WELCOME64
+Wall512.png			BRICKWALL512
+Welcome512.png		WELCOME512
+Portrait.png		PORTRAIT

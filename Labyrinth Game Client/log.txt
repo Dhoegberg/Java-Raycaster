@@ -1,0 +1,4 @@
+java.lang.NullPointerException
+	at gui.GamePanel.setGridFocus(GamePanel.java:49)
+	at main.GameClient.<init>(GameClient.java:75)
+	at main.GameClient.main(GameClient.java:105)
